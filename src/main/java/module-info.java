@@ -1,2 +1,2 @@
-module git.snippet {
+module com.cp {
 }
